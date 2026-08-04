@@ -2,12 +2,12 @@ export const metadata = {
   title: "COIC — Construction Opportunity Institute of Cleveland",
   description:
     "Prepare for a high-paying union apprenticeship through the Construction Opportunity Institute of Cleveland. A free, hands-on pre-apprenticeship program.",
-  metadataBase: new URL("https://www.coic.com"),
+  metadataBase: new URL("https://thecoic.com"),
   openGraph: {
     title: "COIC — Construction Opportunity Institute of Cleveland",
     description:
       "Build your future in the construction trades. Tuition-free 6–8 week pre-apprenticeship program in Cleveland, OH.",
-    url: "https://www.coic.com",
+    url: "https://thecoic.com",
     siteName: "COIC",
     locale: "en_US",
     type: "website",
