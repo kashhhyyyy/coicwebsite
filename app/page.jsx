@@ -568,7 +568,7 @@ export default function App() {
                 <div><Phone size={18} color={COLORS.steel} /><span>216-355-0535</span></div>
                 <div><Mail size={18} color={COLORS.steel} /><span>normankedwards@gmail.com</span></div>
                 <div><Clock size={18} color={COLORS.steel} /><span>Mon–Fri, 8:00 AM – 5:00 PM</span></div>
-                <div><Building2 size={18} color={COLORS.steel} /><span>www.coic.com</span></div>
+                <div><Building2 size={18} color={COLORS.steel} /><span>thecoic.com</span></div>
               </div>
               <div className="coic-social">
                 <Facebook size={18} /><Instagram size={18} /><Linkedin size={18} />
@@ -630,7 +630,7 @@ export default function App() {
               </span>
             </a>
             <p className="coic-footer-tagline">Construction Opportunity Institute of Cleveland</p>
-            <p className="coic-footer-tagline" style={{ marginTop: 4 }}>www.coic.com</p>
+            <p className="coic-footer-tagline" style={{ marginTop: 4 }}>thecoic.com</p>
           </div>
           <div>
             <h4>Quick Links</h4>
