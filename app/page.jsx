@@ -557,7 +557,7 @@ export default function App() {
               <p className="coic-eyebrow">Contact</p>
               <h2 className="coic-h2">Start your application</h2>
               <div className="coic-contact-details">
-                <div><MapPin size={18} color={COLORS.steel} /><span>4200 Opportunity Ave, Cleveland, OH 44115</span></div>
+                <div><MapPin size={18} color={COLORS.steel} /><span>16102 Chagrin Blvd #107, Cleveland, OH 44120</span></div>
                 <div><Users size={18} color={COLORS.steel} /><span>Norman Edwards, Program Contact</span></div>
                 <div><Phone size={18} color={COLORS.steel} /><span>216-355-0535</span></div>
                 <div><Mail size={18} color={COLORS.steel} /><span>normankedwards@gmail.com</span></div>
